@@ -61,7 +61,8 @@ The dataset reveals that a small handful of microbial species (also called opera
 ## Deployment
 
 * Deployed the app to a free static page hosting service, such as GitHub Pages.
-**https://lekpix.github.io/Plot.ly/**
+
+## https://lekpix.github.io/Interactive-Web-Visualization-Plot.ly/
 
 
 ## References
